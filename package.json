@@ -2,7 +2,7 @@
   "name": "lightning-talk-react",
   "version": "1.0.0",
   "scripts": {
-    "test": "grunt test",
+    "test": "",
     "start": "node server.js"
   },
   "engines": {
