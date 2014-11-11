@@ -11,7 +11,6 @@
   "dependencies": {
     "connect": "^3.3.3",
     "express": "~2.5.9",
-    "finalhandler": "^0.3.2",
     "mustache": "~0.7.2",
     "serve-static": "^1.7.1",
     "socket.io": "~0.9.13",
